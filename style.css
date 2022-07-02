@@ -48,7 +48,7 @@ a:hover{
 
 }
 .cont1{
-    background-image: url("./img/picone.jpg");
+    background-image: url("picone.jpg");
     min-height: 80%;  
 }
 .about{
@@ -56,7 +56,7 @@ a:hover{
    
 }
 .pic2{
-    background-image: url("./img/IMG_20220630_095406_725.jpg");
+    background-image: url("IMG_20220630_095406_725.jpg");
     min-height: 70%;
 }
 img{
